@@ -1,0 +1,5 @@
+deploy/
+gcc-linaro-arm-linux-gnueabihf-4.9-2014.09_linux/
+linux-stable/
+u-boot/
+ArchLinuxARM-armv7-latest.tar.gz
