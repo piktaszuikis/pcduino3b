@@ -110,6 +110,10 @@
 	status = "okay";
 };
 
+&codec {
+	status = "okay";
+};
+
 &ahci_pwr_pin_a {
 	allwinner,pins = "PH2";
 };
