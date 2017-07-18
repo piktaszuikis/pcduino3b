@@ -51,7 +51,7 @@
 #include <dt-bindings/pinctrl/sun4i-a10.h>
 
 / {
-	model = "LinkSprite pcDuino3";
+	model = "LinkSprite pcDuino3b";
 	compatible = "linksprite,pcduino3", "allwinner,sun7i-a20";
 
 	aliases {
